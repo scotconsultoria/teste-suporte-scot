@@ -1,0 +1,59 @@
+html{
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
+
+@font-face {
+    font-family:'CG omega';
+    src: url('cg-omega.ttf') format(TrueType);
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+body{
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    
+}
+
+p{
+    
+    font-family: 'CG omega';
+    font-size: 85%;
+    text-align:initial;
+}
+
+a{    
+    color: darkgreen;
+}
+
+.box{
+    margin: 0;
+    width: 50%;
+    height: 50%;
+    background: #fff;
+    min-height: 500px;
+    min-width: 500px;
+    
+}
+
+.container{
+    
+    margin: 0;
+    
+    background: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+img{
+    
+    width: 100%;
+    height: 100%;
+}
