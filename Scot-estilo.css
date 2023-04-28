@@ -1,0 +1,28 @@
+header {
+    max-width: 100%;
+    width: auto;
+    height: auto;
+    text-align: center;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+    font-family: "CG Omega", sans-serif;
+}
+
+a {
+    color:green;
+    
+}
+
+.Tags a {
+    text-decoration: none;
+}
+.Tags a:hover {
+    text-decoration:underline;
+}
